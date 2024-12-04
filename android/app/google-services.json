@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "205663841026",
+    "firebase_url": "https://itlawho-default-rtdb.firebaseio.com",
+    "project_id": "itlawho",
+    "storage_bucket": "itlawho.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205663841026:android:6ab17b16cec7ac56f5301b",
+        "android_client_info": {
+          "package_name": "com.itlawho.ap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205663841026-gbe3eck27qe3s1chft1k8k9iieqbbs7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2ItoQ51TxOV3cKzgfcKUPif89HzDlLvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205663841026-gbe3eck27qe3s1chft1k8k9iieqbbs7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
